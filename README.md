@@ -2,16 +2,17 @@
 
 ## Inductive methods:
 
+
 ### Wrapper methods
 1. Self-training
-  a. Co-training
-  b. Multi-view co-training
-  c. Single-view co-training
-  d. Co-regularization
-2. Boosting
-  a. SSMBoost
-  b. ASSEMBLE
-  c. SemiBoost
+  1. Co-training
+  1. Multi-view co-training
+  1. Single-view co-training
+  1. Co-regularization
+1. Boosting
+  1. SSMBoost
+  1. ASSEMBLE
+  1. SemiBoost
 
 ### Unsupervised preprocessing
 1. Feature extraction
@@ -20,14 +21,13 @@
 
 ### Intrinsically semi-supervised methods
 1. Maximum-margin methods
-  a. Support vector machines(S3VM)
-  b. Gaussian processes
-  c. Density regularization
-  d. Pseudo-labelling as a form of margin maximization
+  1. Support vector machines(S3VM)
+  2. Gaussian processes
+  3. Density regularization
+  4. Pseudo-labelling as a form of margin maximization
 2. Perturbation-based methods
-  a. Pseudo-ensembles
-  b. pi-model
-  c. Temporal ensembling
-  d. Mean teacher
-  e. Semi-supervised mixup
-3. 
+  1. Pseudo-ensembles
+  2. pi-model
+  3. Temporal ensembling
+  4. Mean teacher
+  5. Semi-supervised mixup
