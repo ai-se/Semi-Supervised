@@ -1,4 +1,6 @@
 # Semi-Supervised
+[VanEngelen-Hoos2020_Article_ASurveyOnSemi-supervisedLearni.pdf](https://github.com/ai-se/Semi-Supervised/files/7339885/VanEngelen-Hoos2020_Article_ASurveyOnSemi-supervisedLearni.pdf)
+
 
 ## Inductive methods:
 
