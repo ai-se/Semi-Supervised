@@ -9,8 +9,9 @@
 1. Self-training
   1. Co-training
   1. Multi-view co-training
-  1. Single-view co-training
-  1. Co-regularization
+  2. CO-Forest
+  3. Single-view co-training
+  4. Co-regularization
 1. Boosting
   1. SSMBoost
   1. ASSEMBLE
