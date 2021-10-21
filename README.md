@@ -5,7 +5,7 @@
 ## Inductive methods:
 
 
-### Wrapper methods
+### Wrapper methods (Multiple supervised methods in each)
 1. **Self-training (Done)**
   1. **Co-training (Done)**
   1. **Multi-view co-training (Done)**
