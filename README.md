@@ -6,26 +6,26 @@
 
 
 ### Wrapper methods
-1. Self-training
-  1. Co-training
-  1. Multi-view co-training
-  2. CO-Forest
-  3. Single-view co-training
+1. Self-training (Done)
+  1. Co-training (Done)
+  1. Multi-view co-training (Done)
+  2. CO-Forest (Done)
+  3. Single-view co-training (Done)
   4. Co-regularization
 1. Boosting
-  1. SSMBoost
+  1. SSMBoost 
   1. ASSEMBLE
-  1. SemiBoost
+  1. SemiBoost (Done)
 
 ### Unsupervised preprocessing
 1. Feature extraction
-2. Cluster-then-label
+2. Cluster-then-label (Done)
 3. Pre-training
 
 ### Intrinsically semi-supervised methods
 1. Maximum-margin methods
-  1. Support vector machines(S3VM)
-  2. Gaussian processes
+  1. safe semi supervised Support vector machines(S4VM) (working on now)
+  2. Gaussian processes (working on now)
   3. Density regularization
   4. Pseudo-labelling as a form of margin maximization
 2. Perturbation-based methods
@@ -34,3 +34,10 @@
   3. Temporal ensembling
   4. Mean teacher
   5. Semi-supervised mixup
+3. Others
+  1. LabelPropagation (Done)
+  2. LabelSpreading (Done)
+  3. Semi GMM (Done)
+  4. EATT (Done)
+  5. FTcF.MDS (Done) 
+  6. S3VM (Done)
