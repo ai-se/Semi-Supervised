@@ -34,7 +34,7 @@
   3. Temporal ensembling
   4. Mean teacher
   5. Semi-supervised mixup
-3. Others
+### Others
   1. LabelPropagation (Done)
   2. LabelSpreading (Done)
   3. Semi GMM (Done)
