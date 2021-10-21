@@ -39,5 +39,5 @@
   2. **LabelSpreading (Done)**
   3. **Semi GMM (Done)**
   4. **EATT (Done)**
-  5. **FTcF.MDS (Done) **
+  5. **FTcF.MDS (Done)**
   6. **S3VM (Done)**
