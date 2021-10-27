@@ -24,7 +24,7 @@
 
 ### Intrinsically semi-supervised methods
 1. Maximum-margin methods
-  1. **safe semi supervised Support vector machines(S4VM) (working on now)**
+  1. **safe semi supervised Support vector machines(S4VM) (Done)**
   2. **Gaussian processes (working on now)**
   3. Density regularization
   4. **Pseudo-labelling as a form of margin maximization (working on now)**
