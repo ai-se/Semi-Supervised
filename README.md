@@ -29,13 +29,12 @@ upervisedLearni.pdf)
 
 ## Maximum-margin methods:
 1. S3VM
-2. TSVM
-3. S4VM
 
 ## Perturbation-based methods:
 1. DNN - Not using it
 
 ## Manifolds:
+1.LapSVMp
 
 ## Generative Models:
 1. DNN - Not using it
