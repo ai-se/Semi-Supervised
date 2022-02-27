@@ -1,6 +1,5 @@
 # Semi-Supervised
-[VanEngelen-Hoos2020_Article_ASurveyOnSemi-supervisedLearni.pdf](https://github.com/ai-se/Semi-Supervised/files/7339885/VanEngelen-Hoos2020_Article_ASurveyOnSemi-s!
-upervisedLearni.pdf)
+[VanEngelen-Hoos2020_Article_ASurveyOnSemi-supervisedLearni.pdf](https://github.com/ai-se/Semi-Supervised/files/7339885/VanEngelen-Hoos2020_Article_ASurveyOnSemi-supervisedLearni.pdf)
 
 ![alt text](https://user-images.githubusercontent.com/31140098/139264801-16387c05-693d-4254-8573-d025b8588ebc.png)
 
