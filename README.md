@@ -41,5 +41,7 @@ Taxonomy of Semi-Supervised Learning from Van et al.[1]
 1. LabelPropagation
 2. LabelSpreading
 
+## Data Location:
+Part of the data has been uploaded into the data folder, remaining data has been uploaded into https://zenodo.org/records/10022678.
 
 [1] Jesper E Van Engelen and Holger H Hoos. A survey on semi-supervised learning. Machine Learning, 109(2):373–440, 2020
