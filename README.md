@@ -1,10 +1,9 @@
 # Semi-Supervised
-[VanEngelen-Hoos2020_Article_ASurveyOnSemi-supervisedLearni.pdf](https://github.com/ai-se/Semi-Supervised/files/7339885/VanEngelen-Hoos2020_Article_ASurveyOnSemi-supervisedLearni.pdf)
-
 ![alt text](https://user-images.githubusercontent.com/31140098/139264801-16387c05-693d-4254-8573-d025b8588ebc.png)
+Taxonomy of Semi-Supervised Learning from Van et al.[1]
 
 ## Self-Training: (Widely used in SE)
-1. Different supervised algorithms in semi-supervised setting
+1. Different supervised algorithms in a semi-supervised setting
 
 ## Co-Training: (Widely used in SE)
 1. Multi-view co-training: Different combinations of supervised algorithms
@@ -21,7 +20,7 @@
 
 ## Cluster-then-label:
 1. Clsuter data using some clustering algorithm (EM) and then use the labels for assigning labels to clsuter then predict.
-2.  semi supervised GMM
+2.  semi-supervised GMM
 
 ## Pre-training:
 1. DNN - Not using it
@@ -41,3 +40,6 @@
 ## Graph Based:
 1. LabelPropagation
 2. LabelSpreading
+
+
+[1] Jesper E Van Engelen and Holger H Hoos. A survey on semi-supervised learning. Machine Learning, 109(2):373–440, 2020
